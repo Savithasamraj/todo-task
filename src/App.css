@@ -1,0 +1,19 @@
+
+.mark-done{
+  text-decoration: line-through;
+}
+.box{
+  width:300px;
+border-radius:20px;
+background-color:plum;
+display:grid;
+place-content:center;
+align-items:center;
+margin-top:5px
+
+}
+
+.done{
+  background-color:black;
+  color:white
+}
